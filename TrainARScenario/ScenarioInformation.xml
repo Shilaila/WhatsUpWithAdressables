@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ScenarioInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>TrainAR Scenario</name>
+  <previewImageName>preview.png</previewImageName>
+  <description>A new TrainAR scenario.</description>
+  <trainARObjects>
+    <string>Coffee pot</string>
+    <string>Coffee filter</string>
+    <string>Coffee filter</string>
+    <string>Coffee filter</string>
+    <string>Spoon</string>
+    <string>Cup</string>
+    <string>Coffee powder</string>
+    <string>Water</string>
+    <string>Coffeemachine</string>
+    <string>CoffeemachineOpen</string>
+  </trainARObjects>
+</ScenarioInformation>
